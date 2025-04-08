@@ -14,11 +14,6 @@ This repository contains the cleaning code for the handheld hyperspectral measur
 
 
 To reproduce the cleaning code follow these steps:
-
-1.  Clone this GitHub repository to your local machine.
-
-2.  Run `renv::restore()` to reproduce the environment and download and
-    install all R packages that are needed.
-
-3.  Open the `run.R` file and run `library(targets)` and
-    `targets::tar_make()` to reproduce the code.
+1. Download this repository
+2. Open the Rproject file
+3. Run the script 01_cleaning.R 
